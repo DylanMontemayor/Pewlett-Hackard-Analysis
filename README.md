@@ -27,4 +27,4 @@ For this table, we joined three files, we filtered the data by birth date and or
 
 ## Summary
 
-In this project, we were able to create a schema and create new tables using SQL in postgreSQL that were joined and narrowed to get the data we needed. 
+In this project, we were able to create and use a schema as a reference for our data base. Then, we create new csv files and tables using SQL in postgreSQL that we joined and narrowed to get the data we needed. As a result, we have the necessary information to present the new hires that will be required and get the people that is retiring so we can ask them if they want to join the mentoring program.
